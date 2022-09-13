@@ -72,3 +72,4 @@ This python script enumerates the parameters of different methods (Conv2d, HyveC
 }
 
 ```
+
