@@ -55,22 +55,15 @@ This python script enumerates the parameters of different methods (Conv2d, HyveC
 ## Cite as
 ```
 @misc{https://doi.org/10.48550/arxiv.2209.03136,
-  doi = {10.48550/ARXIV.2209.03136},
-  
-  url = {https://arxiv.org/abs/2209.03136},
-  
-  author = {Varga, Leon Amadeus and Messmer, Martin and Benbarka, Nuri and Zell, Andreas},
-  
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {Wavelength-aware 2D Convolutions for Hyperspectral Imaging},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
+  doi = {10.48550/ARXIV.2209.03136},  
+  url = {https://arxiv.org/abs/2209.03136},  
+  author = {Varga, Leon Amadeus and Messmer, Martin and Benbarka, Nuri and Zell, Andreas},  
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},  
+  title = {Wavelength-aware 2D Convolutions for Hyperspectral Imaging},  
+  publisher = {arXiv},  
+  year = {2022},  
   copyright = {Creative Commons Attribution Share Alike 4.0 International}
-}
+  }
 
 ```
 
