@@ -7,9 +7,6 @@ For a description of the approach, please look into the paper "Wavelength-aware 
 <img src="images/procedure.png" alt="Overview" style="width: 300px;"/><br>
 **Figure 1** - Overview:
 
-
-#FIXME description
-
 # Requirements
 All code is provided for Python 3.8 and PyTorch 1.10.
 Please install the required packages with 
