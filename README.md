@@ -3,6 +3,7 @@ By introducing a suitable model bias and continuously defining the channel dimen
 We evaluated the method based on two different hyperspectral applications (inline inspection and remote sensing). Besides the shown superiority of the model, the modification adds additional explanatory power.    
 In addition, the model learns the necessary camera filters in a data-driven manner. Based on these camera filters, an optimal camera can be designed.
 For a description of the approach, please look into the paper "Wavelength-aware 2D Convolutions for Hyperspectral Imaging".
+
 <img src="images/procedure.png" alt="Overview" style="width: 300px;"/><br>
 **Figure 1** - Overview:
 
